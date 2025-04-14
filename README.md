@@ -4,7 +4,7 @@
 <h1 align="center">Super Smash Brothers COM AI</h1>
 
 <p align="center">
-
+  <img width="596" alt="image" src="https://github.com/user-attachments/assets/4fd1bbc5-bb20-442a-9609-6c32f4a401be" />
 </p>
 
 <h4 align="center">
@@ -40,9 +40,6 @@
     ·
     <a href="#faq">FAQ</a>
     ·
-    <a href="#credits">Credits</a>
-    ·
-    <a href="#license">License</a>
 </h4>
 
 <p align="center">The AI Behind Super Smash Brothers using Finite State Machines & Behaviour Trees</p>
